@@ -26,8 +26,8 @@ The easiest way to upgrade your Pump.fun profits!
 
 ## Links
 
-- Telegram 💬 PumpAComment: [t.me/PumpACommentBot](t.me/PumpACommentBot)
-- Telegram 💀 NukeASniper: [t.me/NukeASniperBot](t.me/NukeASniperBot)
+- Telegram 💬 PumpAComment: [t.me/PumpACommentBot](https://t.me/PumpACommentBot)
+- Telegram 💀 NukeASniper: [t.me/NukeASniperBot](https://t.me/NukeASniperBot)
 
 
 ## Outro
